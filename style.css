@@ -1,0 +1,9 @@
+.board-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.board-container .row {
+  display: flex;
+  margin-bottom: 10px; /* Add vertical spacing between rows */
+}
